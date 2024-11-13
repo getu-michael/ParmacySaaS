@@ -1,0 +1,50 @@
+Analgesics:
+Antacids:
+Antianxiety Drugs: 
+Antiarrhythmics:
+Antibacterials:
+Antibiotics: 
+Anticoagulants and Thrombolytics:
+Anticonvulsants:
+Antidepressants:
+Antidiarrheals:
+Antiemetics:
+Antifungals: 
+Antihistamines: 
+Antihypertensives: 
+Anti-Inflammatories:
+Antineoplastics:
+Antipsychotics: 
+Antipyretics:
+Antivirals:
+Barbiturates:
+Beta-Blockers:
+Bronchodilators:
+Cold Cures: 
+Corticosteroids:
+Cough Suppressants:
+Cytotoxics:
+Decongestants:
+Diuretics:
+Hormones:
+Hypoglycemics (Oral):
+Immunosuppressives:
+Laxatives:
+Muscle Relaxants:
+Sedatives:
+Sex Hormones (Female):
+Sex Hormones (Male):
+Sleeping Drugs:
+Tranquilizer:
+Vitamins: 
+condoms:
+Deodorants:
+Toothpastes:
+Lip moisturizers:
+Bandages:
+Shampoos:
+Conditioners:
+Creams/Lotions:
+Surgical Gloves:
+Surgical masks:
+Soaps:
